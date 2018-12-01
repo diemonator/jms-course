@@ -1,0 +1,17 @@
+plugins {
+    id 'java'
+}
+
+group 'jms-requestor'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile group: 'org.apache.activemq', name: 'activemq-client', version: '5.15.6'
+    compile group: 'org.json', name: 'json', version: '20180813'
+}

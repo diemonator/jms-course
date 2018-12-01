@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="service-model">
+    <output-path>$PROJECT_DIR$/out/artifacts/service_model</output-path>
+    <root id="archive" name="service-model.jar">
+      <element id="directory" name="model">
+        <element id="file-copy" path="$PROJECT_DIR$/jms-replier/out/production/classes/model/Student.class" />
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jms-replier.iml" filepath="$PROJECT_DIR$/.idea/modules/jms-replier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jms-replier_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jms-replier_main.iml" group="jms-replier" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jms-replier_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jms-replier_test.iml" group="jms-replier" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jms-requestor.iml" filepath="$PROJECT_DIR$/.idea/modules/jms-requestor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jms-requestor_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jms-requestor_main.iml" group="jms-requestor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jms-requestor_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jms-requestor_test.iml" group="jms-requestor" />
+    </modules>
+  </component>
+</project>
